@@ -1,4 +1,4 @@
-<header>
+<header> make the interface for the front page of my GitHub thecyborgsarehere
 
 <!--
   <<< Author notes: Course header >>>
